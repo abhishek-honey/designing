@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>15</java.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<mockito.version>3.3.0</mockito.version>
 		<junit-platform.version>1.2.0</junit-platform.version>
 		<junit-jupiter.version>5.2.0</junit-jupiter.version>
